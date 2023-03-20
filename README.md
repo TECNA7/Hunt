@@ -30,10 +30,11 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/0hJtk7E"  ><a href="//imgur.com/a/0hJtk7E">WORK </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+or 
+<iframe src="https://giphy.com/embed/lVifsPT2LvI9TrscXB" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lVifsPT2LvI9TrscXB">via GIPHY</a></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with imgur  
+GIF created with imgur  and giphy
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
